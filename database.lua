@@ -9,6 +9,7 @@ local noloc = { "items", "quests", "objects", "units" }
 
 pfDB.locales = {
   ["enUS"] = "English",
+  ["ptBR"] = "Portuguese",
   ["koKR"] = "Korean",
   ["frFR"] = "French",
   ["deDE"] = "German",
