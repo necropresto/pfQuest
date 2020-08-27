@@ -3,6 +3,7 @@
 ## Author: Shagu
 ## Notes: A lightweight Questhelper and Database
 ## Notes-ptBR: Um auxiliador de missões e uma base de dados leve
+## Notes-ruRU: Облегченный помошник заданий и база данных
 ## Version: GIT
 ## OptionalDeps: pfUI
 ## SavedVariables: pfQuest_questcache
