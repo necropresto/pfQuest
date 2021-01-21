@@ -134,6 +134,7 @@ local locales = {
     ["Show map tracker"] = "Mostrar rastreador no mapa",
     ["Show mines with skill range of [min] to [max]"] = "Mostrar minérios com nível de habilidade de [min] a [max]",
     ["Show Quest Givers"] = "Mostrar Provedores de Missões",
+    ["Show quest arrow"] = "Exibe GPS",
     ["Show quest journal"] = "Mostrar diário de missões",
     ["Show Route Between Objects"] = "Mostrar Rota Entre Objetos",
     ["Show Route On Minimap"] = "Mostrar Rota no Minimapa",
